@@ -14,7 +14,7 @@ $ bundle install --path=vendor/bundle
 
 ## Usage
 
-Add some image files to the current dicectory and execute the command below.
+Add some image files to the `image/` dicectory and execute the command below.
 
 ``` bash
 $ ./mkpdf.sh <filename>
