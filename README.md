@@ -13,7 +13,7 @@ $ bundle install --path=vendor/bundle
 Add some image files to the current dicectory and execute the command below.
 
 ``` bash
-$ bundle exec ruby <filename>
+$ ./mkpdf.sh
 ```
 
 Then, `<filename>.pdf` would be generated.
