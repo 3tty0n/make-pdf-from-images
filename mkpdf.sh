@@ -1,2 +1,2 @@
 #!/bin/sh
-bundle exec ruby make-pdf-from-images.rb $1
+bundle exec ruby mkpdf.rb $1
