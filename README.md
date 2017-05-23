@@ -13,7 +13,7 @@ $ bundle install --path=vendor/bundle
 Add some image files to the current dicectory and execute the command below.
 
 ``` bash
-$ ./mkpdf.sh
+$ ./mkpdf.sh <filename>
 ```
 
 Then, `<filename>.pdf` would be generated.
