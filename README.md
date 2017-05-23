@@ -2,6 +2,10 @@
 
 This can make a `pdf` file from some image files.
 
+## Requirement
+
+- imagemagic 6 (not imagemagick 7)
+
 ## Install
 
 ``` bash
